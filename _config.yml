@@ -13,9 +13,9 @@ title                    : "WEESR 2021"
 title_separator          : "-"
 name                     : &name "Workshop on Experiences and Empirical Studies on Software Reuse"
 description              : &description "Website of the Workshop on Experiences and Empirical Studies on Software Reuse (WEESR 2021)"
-url                      : https://weesr.github.io/
+url                      : https://weesr.github.io/2021
 baseurl                  : 
-repository               : "weesr/weesr.github.io"
+repository               : "weesr/2021"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "WEESR <span style='color:#0092ca;'>2021</span>"
